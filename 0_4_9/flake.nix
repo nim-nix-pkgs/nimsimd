@@ -11,6 +11,7 @@
   inputs.src-nimsimd-0_4_9.ref   = "refs/tags/0.4.9";
   inputs.src-nimsimd-0_4_9.owner = "guzba";
   inputs.src-nimsimd-0_4_9.repo  = "nimsimd";
+  inputs.src-nimsimd-0_4_9.dir   = "";
   inputs.src-nimsimd-0_4_9.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
