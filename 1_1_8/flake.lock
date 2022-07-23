@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-nimsimd-master": "src-nimsimd-master"
+        "src-nimsimd-1_1_8": "src-nimsimd-1_1_8"
       }
     },
-    "src-nimsimd-master": {
+    "src-nimsimd-1_1_8": {
       "flake": false,
       "locked": {
         "lastModified": 1658553100,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "guzba",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/1.1.8",
         "repo": "nimsimd",
         "type": "github"
       }
