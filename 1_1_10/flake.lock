@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-nimsimd-master": "src-nimsimd-master"
+        "src-nimsimd-1_1_10": "src-nimsimd-1_1_10"
       }
     },
-    "src-nimsimd-master": {
+    "src-nimsimd-1_1_10": {
       "flake": false,
       "locked": {
-        "lastModified": 1659471560,
-        "narHash": "sha256-jta0XoYC4qbmoG8AFq+6AibZYAAwLQMD9GXEmHrlSWo=",
+        "lastModified": 1659244260,
+        "narHash": "sha256-oCDXeOZVw+pAt+pWHvVfiKX4tlu5cqLygXSR7PPoiwo=",
         "owner": "guzba",
         "repo": "nimsimd",
-        "rev": "437b42dd52bf9d3b33579d7b354913d8a6aa3bc1",
+        "rev": "b9965a3f1499622dee9f388e3dd076c6782bb574",
         "type": "github"
       },
       "original": {
         "owner": "guzba",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/1.1.10",
         "repo": "nimsimd",
         "type": "github"
       }
